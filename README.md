@@ -1,2 +1,1 @@
-# Real-Time-Computer-Vision
-A high-performance framework for real-time computer vision applications, including object detection, tracking, and image segmentation.
+# Real-Time Computer Vision\n\nA high-performance framework for real-time computer vision applications, including object detection, tracking, and image segmentation.\n\n## Features\n- **Optimized Performance:** Designed for low-latency, high-throughput vision tasks.\n- **Modular Architecture:** Easily integrate new models and algorithms.\n- **Cross-Platform Support:** Deploy on various hardware and operating systems.\n- **Pre-trained Models:** Access to a library of pre-trained models for common tasks.\n\n## Getting Started\n\nMore details coming soon!
